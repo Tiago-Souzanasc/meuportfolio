@@ -1,0 +1,18 @@
+footer {
+    margin-top: 16%;
+}
+
+.divc {
+    margin-top: 3%;
+    width: 30%;
+}
+
+.sectionsobremim {
+    margin-top: 2%;
+}
+
+@media (max-width: 1200px) {
+    .divc {
+        width: 65%;
+    }
+}

@@ -1,0 +1,45 @@
+@media (max-width: 1200px) {
+    main {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    .sectionsobremim {
+        width: 65%;
+    }
+
+    .navprojetos {
+        width: 65%;
+        margin-bottom: 35px;
+    }
+
+    .link{
+        text-decoration: none;
+        height: 75px;
+        width: 75px;
+        border-radius: 50%;
+        margin: 10px;
+    }
+}
+
+@media (max-width: 500px) {
+    .sectionsobremim {
+        width: 70%;
+    }
+
+    .navprojetos {
+        width: 70%;
+        margin-bottom: 35px;
+    }
+
+    .cabecalho {
+        display: flex;
+        align-items: center;
+        flex-direction: column-reverse;
+        padding-top: 20px;
+    }
+}
+    
+@media (max-width: 376px) {
+    
+}
